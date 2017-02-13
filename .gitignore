@@ -87,3 +87,14 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#raw data
+.gz
+.csv
+.tsv
+.png
+notMNIST_large/
+notMNIST_small/
+
+#models
+.pickle
